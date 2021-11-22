@@ -7,4 +7,4 @@ variable "myapp_count" {
 
 varaible "vpc_cidr"
 type    = string 
-default = "10.10.0.0/16"
+default = 10.10.0.0/16
